@@ -1,0 +1,56 @@
+body {
+  background-color: black;
+  color: #DCDFE0;
+}
+
+#nineteenfortytwo {
+    float: left;
+    background-image: url("http://www.nasa.gov/images/content/313590main_ISS018E013259_clouds.jpg");
+}
+
+#instructions {
+    float: right;
+    width: 400px;
+    padding-right: 50px;
+    padding-top:2px;
+}
+
+.key-row {
+    width: 450px;
+}
+
+ul {
+    margin: 0;
+    list-style-type: none;
+}
+
+li {
+    float: left;
+    margin: 0;
+}
+
+.w {
+    margin-left: 150px;
+}
+
+.key {
+    border: 1px solid green;
+    padding: 5px;
+    text-align: center;
+    width: 100px;
+    margin-top: 10px;
+}
+
+.spacebar {
+    border: 1px solid green;
+    padding: 5px;
+    text-align: center;
+    width: 300px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 53px;
+}
+
+#title-1942 {
+  margin-left: 120px;
+}
